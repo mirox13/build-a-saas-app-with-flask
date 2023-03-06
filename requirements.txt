@@ -20,4 +20,4 @@ flask-debugtoolbar==0.13.0
 Flask-Mail==0.9.1
 Flask-Static-Digest==0.2.1
 
-django-quickbooks==0.6.4.2
+quickbooks==0.6.4.2
